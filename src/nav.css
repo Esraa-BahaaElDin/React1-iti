@@ -1,0 +1,22 @@
+
+/* .header{
+    position: relative;
+    height: 70vh;
+    width: 100%;
+} */
+/* .para{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+} */
+/* img{
+    height: 100%;
+    max-width: 100%;
+} */
+
+.header{
+    background-image: url('./bg2.jpg');
+    height: 70vh;
+      background-attachment: fixed;
+    background-position: center;
+}
